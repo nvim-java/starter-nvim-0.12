@@ -12,7 +12,7 @@ A minimal Neovim configuration for Java development using the nvim-java ecosyste
 
 1. **Clone this repository:**
    ```bash
-   git clone <your-repo-url> ~/.config/nvim
+   git clone https://github.com/nvim-java/starter-nvim-0.12.git ~/.config/nvim
    ```
 
 2. **Start Neovim:**
